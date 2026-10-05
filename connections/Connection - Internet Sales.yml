@@ -1,6 +1,6 @@
 unique_name: Connection - Internet Sales
 label: Connection - Internet Sales
 object_type: connection
-as_connection: BigQuery
-database: atscale-sales-demo
-schema: as_adventure_SE_demo2
+as_connection: Redshift
+database: atscale
+schema: as_adventure
